@@ -1,6 +1,6 @@
-# timer
+# Simple Timer
 
-### Implement an alarm clock / timer which will beep after a specified amount of time has passed. The user can specify an unlimited number of alarms using command line arguments
+#### Implement an alarm clock / timer which will beep after a specified amount of time has passed. The user can specify an unlimited number of alarms using command line arguments
 
 Example usage:
 
@@ -14,7 +14,7 @@ This will make it beep at:
 10 seconds
 15 seconds
 
-### System Sound (Beep / Ding)
+#### System Sound (Beep / Ding)
 
 A quick Google Search of "node system beep" shows that in order to make our machine perform a system sound, we can simply output the following special character to stdout.
 ```javascript
